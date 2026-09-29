@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=480&lines=Software+Engineer;Linux+%2F+Fedora+Silverblue;Automation+%26+Self-Hosted+Systems;Security-minded+Tinkerer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nixbys&style=flat-square&color=58A6FF" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/nixbys?style=flat-square&color=58A6FF&label=followers" alt="Followers" />
-</p>
-
 <br>
 
 ### 👤 About
