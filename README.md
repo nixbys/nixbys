@@ -6,7 +6,7 @@
 
 <br>
 
-### 👤 About
+### About
 
 - 🛠️ I build infrastructure, automation, and security tooling — OS hardening, self-hosted AI workspaces, and small web apps
 - 🐧 Daily driver: Linux (Fedora / Fedora Silverblue)
@@ -15,7 +15,7 @@
 
 <br>
 
-### 🧰 Tech Stack
+### Tech stack
 
 **Languages & tools across my public repos**
 
@@ -42,7 +42,7 @@
 
 <br>
 
-### 📊 GitHub Stats
+### GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nixbys&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="nixbys's GitHub stats" height="165" />
